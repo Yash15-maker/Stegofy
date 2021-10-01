@@ -1,10 +1,13 @@
-Steps are Simple
-1.>npm install
-2.>npm install react-router-dom
-3.>npm install react-bootstrap
-4.>npm i react-scripts
-5.>npm start
+##Steps are Simple
+###npm install
+###npm install react-router-dom
+###npm install react-bootstrap
+###npm i react-scripts
+###npm start
 
 
 The page belongs to simple Page regarding React js.
 Simple Landing Page.
+
+Deployed Here 
+<a href="">LIVE LINK</a>
